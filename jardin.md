@@ -2,6 +2,6 @@
 
 [porte vers l'enfer ](https://github.com/jackalstv/labyrteam/blob/main/garage.md)
 
-[porte jaune ](]https://github.com/jackalstv/labyrteam/blob/main/Grenier.md)
+[porte jaune ](https://github.com/jackalstv/labyrteam/blob/main/Grenier.md)
 
 [c'est ciao!!!!!!!!!!!](https://github.com/jackalstv/labyrteam/blob/main/gameover.md)
