@@ -1,4 +1,4 @@
-[Trésor caché derrire la porte .. Ou pas ] (https://github.com/jackalstv/labyrteam/blob/main/gameover.md)
+[Trésor caché derrire la porte .. Ou pas ](https://github.com/jackalstv/labyrteam/blob/main/gameover.md)
 
 [RIP](https://github.com/jackalstv/labyrteam/blob/main/Chambre.md)
 

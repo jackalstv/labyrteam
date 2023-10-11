@@ -1,1 +1,1 @@
-(C'est parti !)[https://github.com/jackalstv/labyrteam/blob/main/Salon.md]
+[C'est parti !](https://github.com/jackalstv/labyrteam/blob/main/Salon.md)
