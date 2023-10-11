@@ -3,3 +3,5 @@
 [RIP](https://github.com/jackalstv/labyrteam/blob/main/Chambre.md)
 
 [miam](https://github.com/jackalstv/labyrteam/blob/main/Cuisine.md)
+
+![garage](image/garage.jpg)
