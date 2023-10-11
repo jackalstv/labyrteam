@@ -5,3 +5,5 @@
 [porte jaune ](https://github.com/jackalstv/labyrteam/blob/main/Grenier.md)
 
 [c'est ciao!!!!!!!!!!!](https://github.com/jackalstv/labyrteam/blob/main/gameover.md)
+
+[jardin](./images/jardin.jpg)
