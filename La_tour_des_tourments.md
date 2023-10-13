@@ -2,4 +2,4 @@
 
 [porte de Raoul](https://github.com/jackalstv/labyrteam/blob/main/le_labo_des_enfer.md)
 
-![tour](./images/tour.jpg)
+![tour](images/tour.jpg)
