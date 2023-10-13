@@ -2,4 +2,4 @@
 
 [porte avec phillipe Etchebest](https://github.com/jackalstv/labyrteam/blob/main/Cuisine.md)
 
-![babylone](images/babylone.jpg)
+![babylone](image/babylone.jpg)

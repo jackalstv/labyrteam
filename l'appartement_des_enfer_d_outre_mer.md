@@ -6,4 +6,4 @@
 
 [porte casser](https://github.com/jackalstv/labyrteam/blob/main/Cuisine.md)
 
-[appartement des enfers d'outre mer](./images/appartement.jpg)
+![appartement des enfers d'outre mer](image/appartement.jpg)
